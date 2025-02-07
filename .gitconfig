@@ -1,3 +1,8 @@
 [user]
     email = sutphinl16@gmail.com
     name = Lilly
+    signingkey = C:\\Users\\sutph\\.ssh\\git-auth-sign-key-two
+[gpg]
+    format = ssh
+[commit]
+    gpgsign = true
